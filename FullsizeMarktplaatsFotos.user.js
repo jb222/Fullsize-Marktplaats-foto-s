@@ -4,7 +4,6 @@
 // @namespace      Marktplaats
 // @description    Zoom in tot maximaal formaat
 // @match          https://www.marktplaats.nl/*
-// @copyright      2022 Jan Boeijink
 // @license        MIT License
 // @grant          GM_addStyle
 // @run-at         document-start

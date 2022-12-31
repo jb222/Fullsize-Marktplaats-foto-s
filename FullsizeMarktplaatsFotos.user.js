@@ -2,7 +2,7 @@
 // @name           Fullsize Marktplaats foto's
 // @version        1.3.0
 // @namespace      Marktplaats
-// @description    Klik door voor maximaal formaat
+// @description    Klik door naar maximaal formaat
 // @match          https://www.marktplaats.nl/*
 // @license        MIT License
 // @grant          GM_addStyle

@@ -6,7 +6,7 @@
 // @match          https://www.marktplaats.nl/*
 // @license        MIT License
 // @grant          GM_addStyle
-// @run-at         document-start
+// @run-at         document-end
 // ==/UserScript==
 
 (function() {
